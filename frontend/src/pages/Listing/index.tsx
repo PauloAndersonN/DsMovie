@@ -1,5 +1,5 @@
 import MovieCard from "componenets/MovieCard";
-import MoviesCard from "componenets/MovieCard";
+
 import Pagination from "componenets/Pagination";
 
 
